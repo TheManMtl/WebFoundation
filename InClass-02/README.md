@@ -1,2 +1,2 @@
 # WebFoundation
-In Class exersise making a simple webpage using HTML/CSS.
+In Class assignment making a simple webpage using HTML/CSS.
