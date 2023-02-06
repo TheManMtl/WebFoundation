@@ -1,0 +1,45 @@
+/* THIS IS A COMMENT */
+/*h1 {
+    color: brown;
+    background-color: violet;
+}*/
+
+h2{
+    color: lightblue;
+}
+
+/* CLASS SELECTOR */ 
+
+.bgRed{
+    background-color: red;
+}
+.bgYellow{
+    background-color: yellow;
+}
+.bgBlue{
+    background-color: blue;
+}
+
+.txtWhite{
+    color: white;
+}
+/*.txtRed{
+    color: red;
+}*/
+
+/* MULTIPLE SELECTORS */
+
+h1, .txtRed{
+    color: red;
+}
+
+/* ID SELECTOR */
+
+#top{
+    text-align: center;
+}
+
+[height="100"]{
+    border: 5px solid violet;
+    border-bottom-color: blueviolet;
+}
