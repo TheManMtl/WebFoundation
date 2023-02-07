@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(253, 232, 255);
+}
+.container{
+    border: 1px solid rgb(139, 0, 139);
+    /* border-right: 5px solid red; */
+    /* padding-left: 100px; */
+    margin: 50px;
+}
+.subject{
+    text-align: center;
+    color: rgba(29, 1, 56, 0.788);
+}
+
+.day{
+    width: 33%;
+    float: left;
+    height: 100%;
+    margin-right: 5px;
+}
+.topic{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.fit{
+    height: 100%;
+    padding-bottom: 20px;
+}
