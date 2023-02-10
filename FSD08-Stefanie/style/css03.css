@@ -1,0 +1,24 @@
+html{
+    font-family:arial, sans-serif;
+    font-size: 20px;
+}
+body{
+    margin: 20px;
+}
+h1{
+    padding-bottom: 15px;
+    color: #396195;
+    border-bottom: 2px solid blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.job-title{
+    color: gray;
+    font-weight: bold;
+}
+a{
+    color: orange;
+}
+
+p{
+    line-height: 1.5em;
+}
