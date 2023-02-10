@@ -1,0 +1,48 @@
+.content{
+    max-width: 960px;
+    width: auto;
+    border: 1px dotted black;
+    display: inline-block;
+    background-color: rgb(246, 227, 255);
+    margin-left: 25%;
+}
+.all{
+    width: auto;
+    float: left;
+    margin: 50px;
+    display: flex;
+    border-width: 5px;
+    border-color: black;
+}
+
+.myElement{
+    text-align: center;
+    border-style: solid;
+    background-color: #7fb6c2;
+    margin-left: 4px;
+}
+
+.myPadding{
+    border-style: dotted;
+    padding: 5px;
+    background-color: #bfd081;
+    text-align: left;
+}
+
+.myBorder{
+    border-style: solid;
+    background-color: #ffdc91;
+    padding-left: 2px;
+}
+
+.myMargin{
+    border-style: dotted;
+    background-color: #ffca96;
+    padding-left: 2px;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
